@@ -15,7 +15,8 @@ Running in win cmd terminal
 
 ### ask query  
 Running in win cmd terminal  
-```python run_query.py```
+```python run_query.py```  
+
 will start loading the llm model, and its embeddings i.e. what it learned from reading our source material.  
 We can now start asking it questions about WIttgenstein's philoshophy!   
 
@@ -23,7 +24,9 @@ We can now start asking it questions about WIttgenstein's philoshophy!
 it takes a while to answer questions, as expected on a CPU (a fast version requires a large memory GPU chip)  
 But after a few minutes, we get our answers!  
 
+https://github.com/oliver-bigdata/local-llm-chatbot/blob/main/screenshots/wittgen.png  
 
+https://github.com/oliver-bigdata/local-llm-chatbot/blob/main/screenshots/wittgen%20query%20lion.png
 
 
 ## installation of packages  
