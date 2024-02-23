@@ -24,9 +24,9 @@ We can now start asking it questions about WIttgenstein's philoshophy!
 it takes a while to answer questions, as expected on a CPU (a fast version requires a large memory GPU chip)  
 But after a few minutes, we get our answers!  
 
-https://github.com/oliver-bigdata/local-llm-chatbot/blob/main/screenshots/wittgen.png  
+![wittgenstein queryA](https://github.com/oliver-bigdata/local-llm-chatbot/blob/main/screenshots/wittgen.png?raw=true)  
 
-https://github.com/oliver-bigdata/local-llm-chatbot/blob/main/screenshots/wittgen%20query%20lion.png
+![wittgenstein queryB](https://github.com/oliver-bigdata/local-llm-chatbot/blob/main/screenshots/wittgen%20query%20lion.png?raw=true)
 
 
 ## installation of packages  
