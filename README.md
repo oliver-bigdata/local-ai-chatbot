@@ -13,6 +13,9 @@ Running in win cmd terminal
   will start the language model reading through the files in "source_documents" dir and training itself on this material.
   After a few minutes, this process will have completed and we can ask the chatbot a question!  
 
+  Once ingestion is complete you should see a terminal screen like so:  
+  ![ingestion_comp](https://github.com/oliver-bigdata/local-llm-chatbot/blob/main/screenshots/ingestion_complete.png?raw=true)
+
 ### ask query  
 Running in win cmd terminal  
 ```python run_query.py```  
